@@ -17,7 +17,7 @@
 
  --%>
  
- <jsp:useBean id="mensaje" class="ufps.bean.Mensaje">
+ <jsp:useBean id="mensaje" class="ufps.web.Mensaje">
  	<jsp:setProperty name="mensaje" property="*"/>
  
  </jsp:useBean>
